@@ -77,7 +77,7 @@ ionic first test plugin
 	
 4. 插件目录
 
-	![Alt text](./1453431147163.png)
+	![](http://i4.tietuku.com/cfd22f5b0f00c5d4.png)
 
 
 		src 对应不同的平台
@@ -96,7 +96,7 @@ ionic first test plugin
 	config-file：当安装该插件时，会添加到目标平台android下的 res/xml/config.xml 文件中，并将 src/android/myEcho.java，复制到 android 的 package 包中
 	```
 
-	![Alt text](./1453431178778.png)
+	![](http://i4.tietuku.com/a8b13b9f10689428.png)
 
 
 	`注：format code -> cmd + option + L`
@@ -142,10 +142,10 @@ error:调用出错时的回调函数
 		`cordova plugin add /xxx/myFirstPlugin`
 		
 	安装成功后，如下图所示：
-	![Alt text](./1453431214027.png)
+	![](http://i4.tietuku.com/6716393657fac937.png)
 
 	系统会自动添加到已有的平台，如android:
-	![Alt text](./1453431238629.png)
+	![](http://i4.tietuku.com/8c481e13b0deae0d.png)
 
 
 	
@@ -237,7 +237,7 @@ window.plugins.myFirstPlugin = {showAlert:alert};
 
 * 查看数据类型
 		
-		![Alt text](./1453431563753.png)
+		![](http://i4.tietuku.com/a2a48c540c7a2908.jpg)
 		
 		由图可知，需要处理的数据类型为JsonObject.
 		修改myFirstPlugin.java,处理数据.
@@ -285,7 +285,7 @@ window.plugins.myFirstPlugin = {showAlert:alert};
 
 		对话框如下图所示：
 		
-		![Alt text](./1453432007692.png)
+		![](http://i4.tietuku.com/066b20956c7bc652.png)
 
 ----
 

@@ -60,7 +60,7 @@ ionic first test plugin
 		
 	* 新建成功，如下图所示:
 	
-	![Alt text](./1453431128601.png)
+	![](http://i4.tietuku.com/25f8e7613147c84a.png)
 
 
 		

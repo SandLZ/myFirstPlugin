@@ -1,5 +1,5 @@
 # myFirstPlugin
-ionic first test plugin
+## 框架：ionic + cordova (webApp)
 
 ##cordova-plugin
 
